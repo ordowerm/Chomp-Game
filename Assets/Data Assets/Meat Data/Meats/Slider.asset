@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49979920291d61647b4589bfd3bf111a, type: 3}
+  m_Name: Slider
+  m_EditorClassIdentifier: 
+  meatname: slider
+  pointvalue: 20
+  fallspeed: 1
+  fadetime: 0.1
+  copies: 1
+  pic: {fileID: 7929265683492664775, guid: b916e8ccf5078794a947082f9f2bf556, type: 3}

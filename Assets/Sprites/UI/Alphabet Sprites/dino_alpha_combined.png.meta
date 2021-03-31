@@ -1,0 +1,3098 @@
+fileFormatVersion: 2
+guid: f60cce0816e6fb24ea49777330c6025e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4383662693174148614
+    second: dino_alpha_combined_0
+  - first:
+      213: -678670493110008472
+    second: dino_alpha_combined_1
+  - first:
+      213: 2550402705104043063
+    second: dino_alpha_combined_2
+  - first:
+      213: -5285754714190266224
+    second: dino_alpha_combined_3
+  - first:
+      213: 2250215352937754923
+    second: dino_alpha_combined_4
+  - first:
+      213: 3923575799763987768
+    second: dino_alpha_combined_5
+  - first:
+      213: -6151441447745469279
+    second: dino_alpha_combined_6
+  - first:
+      213: 5871393078977114005
+    second: dino_alpha_combined_7
+  - first:
+      213: -2909024933170238069
+    second: dino_alpha_combined_8
+  - first:
+      213: 8924596063723463370
+    second: dino_alpha_combined_9
+  - first:
+      213: 6385431423213421426
+    second: dino_alpha_combined_10
+  - first:
+      213: 7025983501873446782
+    second: dino_alpha_combined_11
+  - first:
+      213: 2778198782010871958
+    second: dino_alpha_combined_12
+  - first:
+      213: -6531767469868563955
+    second: dino_alpha_combined_13
+  - first:
+      213: 4978127044047790655
+    second: dino_alpha_combined_14
+  - first:
+      213: 1667965032284922478
+    second: dino_alpha_combined_15
+  - first:
+      213: 7046172923464343544
+    second: dino_alpha_combined_16
+  - first:
+      213: 947622622288972123
+    second: dino_alpha_combined_17
+  - first:
+      213: 4266397539355513851
+    second: dino_alpha_combined_18
+  - first:
+      213: -1558020727675196307
+    second: dino_alpha_combined_19
+  - first:
+      213: 7686113758671044295
+    second: dino_alpha_combined_20
+  - first:
+      213: -5969548493058093717
+    second: dino_alpha_combined_21
+  - first:
+      213: 6904399681044507567
+    second: dino_alpha_combined_22
+  - first:
+      213: 5276603415642618379
+    second: dino_alpha_combined_23
+  - first:
+      213: -8602487495006043001
+    second: dino_alpha_combined_24
+  - first:
+      213: 276300515453397124
+    second: dino_alpha_combined_25
+  - first:
+      213: -7192378656645080010
+    second: dino_alpha_combined_26
+  - first:
+      213: 8567562241108686254
+    second: dino_alpha_combined_27
+  - first:
+      213: 6911097888563359814
+    second: dino_alpha_combined_28
+  - first:
+      213: -2301434080117686057
+    second: dino_alpha_combined_29
+  - first:
+      213: 5168731627645991479
+    second: dino_alpha_combined_30
+  - first:
+      213: 8770818638352614929
+    second: dino_alpha_combined_31
+  - first:
+      213: -4435618437405383130
+    second: dino_alpha_combined_32
+  - first:
+      213: -6604785219567292039
+    second: dino_alpha_combined_33
+  - first:
+      213: -5120112671074923320
+    second: dino_alpha_combined_34
+  - first:
+      213: 6711385206133223412
+    second: dino_alpha_combined_35
+  - first:
+      213: -8534462098071782787
+    second: dino_alpha_combined_36
+  - first:
+      213: 737614248408285823
+    second: dino_alpha_combined_37
+  - first:
+      213: -1494366761836257602
+    second: dino_alpha_combined_38
+  - first:
+      213: 5980984976265891967
+    second: dino_alpha_combined_39
+  - first:
+      213: -2393231415836600817
+    second: dino_alpha_combined_40
+  - first:
+      213: -5943470723147218451
+    second: dino_alpha_combined_41
+  - first:
+      213: 4687799120328961076
+    second: dino_alpha_combined_42
+  - first:
+      213: -129471841065433737
+    second: dino_alpha_combined_43
+  - first:
+      213: -5130031083657741990
+    second: dino_alpha_combined_44
+  - first:
+      213: 7479962825865605751
+    second: dino_alpha_combined_45
+  - first:
+      213: -2217312488532897541
+    second: dino_alpha_combined_46
+  - first:
+      213: 7879481669597576725
+    second: dino_alpha_combined_47
+  - first:
+      213: 7994844014257020722
+    second: dino_alpha_combined_48
+  - first:
+      213: -5165171750755086375
+    second: dino_alpha_combined_49
+  - first:
+      213: 2051741519797471800
+    second: dino_alpha_combined_50
+  - first:
+      213: -6670381724666192050
+    second: dino_alpha_combined_51
+  - first:
+      213: 8097208478489380073
+    second: dino_alpha_combined_52
+  - first:
+      213: -143870037545943284
+    second: dino_alpha_combined_53
+  - first:
+      213: 4492583764808411283
+    second: dino_alpha_combined_54
+  - first:
+      213: 6794123734943618589
+    second: dino_alpha_combined_55
+  - first:
+      213: 5275294076686586854
+    second: dino_alpha_combined_56
+  - first:
+      213: 5627923467307722193
+    second: dino_alpha_combined_57
+  - first:
+      213: -6576629076400757105
+    second: dino_alpha_combined_58
+  - first:
+      213: 3391284472977371809
+    second: dino_alpha_combined_59
+  - first:
+      213: 876091149936517475
+    second: dino_alpha_combined_60
+  - first:
+      213: 7838976843889965556
+    second: dino_alpha_combined_61
+  - first:
+      213: 6106138532666269982
+    second: dino_alpha_combined_62
+  - first:
+      213: -3367853773358903800
+    second: dino_alpha_combined_63
+  - first:
+      213: -4651326831998789045
+    second: dino_alpha_combined_64
+  - first:
+      213: -8497758723631898056
+    second: dino_alpha_combined_65
+  - first:
+      213: 6643478743399745572
+    second: dino_alpha_combined_66
+  - first:
+      213: -4083723274749199199
+    second: dino_alpha_combined_67
+  - first:
+      213: 3744112247468237460
+    second: dino_alpha_combined_68
+  - first:
+      213: -5619600756695472812
+    second: dino_alpha_combined_69
+  - first:
+      213: -1441710986834963736
+    second: dino_alpha_combined_70
+  - first:
+      213: 8579945188836932534
+    second: dino_alpha_combined_71
+  - first:
+      213: -1471263338193096528
+    second: dino_alpha_combined_72
+  - first:
+      213: -4658308857078936979
+    second: dino_alpha_combined_73
+  - first:
+      213: 1550347620419186018
+    second: dino_alpha_combined_74
+  - first:
+      213: 644541817451126405
+    second: dino_alpha_combined_75
+  - first:
+      213: 5774816415198074789
+    second: dino_alpha_combined_76
+  - first:
+      213: 3913845354350041212
+    second: dino_alpha_combined_77
+  - first:
+      213: 6781831131118233849
+    second: dino_alpha_combined_78
+  - first:
+      213: -4400429062293862551
+    second: dino_alpha_combined_79
+  - first:
+      213: -513328598325829660
+    second: dino_alpha_combined_80
+  - first:
+      213: 6534113752041880530
+    second: dino_alpha_combined_81
+  - first:
+      213: -3727594161708460358
+    second: dino_alpha_combined_82
+  - first:
+      213: -7148291975006812360
+    second: dino_alpha_combined_83
+  - first:
+      213: 7731724546341717017
+    second: dino_alpha_combined_84
+  - first:
+      213: 5331751185443610325
+    second: dino_alpha_combined_85
+  - first:
+      213: -8248919087409436135
+    second: dino_alpha_combined_86
+  - first:
+      213: -9154197741264469732
+    second: dino_alpha_combined_87
+  - first:
+      213: 1714778119564592385
+    second: dino_alpha_combined_88
+  - first:
+      213: -5191319496837578245
+    second: dino_alpha_combined_89
+  - first:
+      213: 3246098853345696086
+    second: dino_alpha_combined_90
+  - first:
+      213: -8022959416894101681
+    second: dino_alpha_combined_91
+  - first:
+      213: -8373090645024778271
+    second: dino_alpha_combined_92
+  - first:
+      213: 1694365473429890390
+    second: dino_alpha_combined_93
+  - first:
+      213: 1814011365460498601
+    second: dino_alpha_combined_94
+  - first:
+      213: 2850937955496472719
+    second: dino_alpha_combined_95
+  - first:
+      213: 3271256142705563282
+    second: dino_alpha_combined_96
+  - first:
+      213: 8468166694343496176
+    second: dino_alpha_combined_97
+  - first:
+      213: -8986645882045586945
+    second: dino_alpha_combined_98
+  - first:
+      213: -6796053114421252563
+    second: dino_alpha_combined_99
+  - first:
+      213: 9081404122779143275
+    second: dino_alpha_combined_100
+  - first:
+      213: 6705221804110595754
+    second: dino_alpha_combined_101
+  - first:
+      213: -6806223055816927692
+    second: dino_alpha_combined_102
+  - first:
+      213: -7108742683557810697
+    second: dino_alpha_combined_103
+  - first:
+      213: -7031871224052595143
+    second: dino_alpha_combined_104
+  - first:
+      213: -3229790685405179395
+    second: dino_alpha_combined_105
+  - first:
+      213: 7252367219565754410
+    second: dino_alpha_combined_106
+  - first:
+      213: 1553302351923649088
+    second: dino_alpha_combined_107
+  - first:
+      213: -6189470812765197831
+    second: dino_alpha_combined_108
+  - first:
+      213: -634243931770656089
+    second: dino_alpha_combined_109
+  - first:
+      213: -8255225158165208422
+    second: dino_alpha_combined_110
+  - first:
+      213: -2663994297211849099
+    second: dino_alpha_combined_111
+  - first:
+      213: 423693240661739917
+    second: dino_alpha_combined_112
+  - first:
+      213: -652092917973851152
+    second: dino_alpha_combined_113
+  - first:
+      213: 1472627804978223479
+    second: dino_alpha_combined_114
+  - first:
+      213: 2549314607247220791
+    second: dino_alpha_combined_115
+  - first:
+      213: 5536640079297389439
+    second: dino_alpha_combined_116
+  - first:
+      213: 1906758514146285267
+    second: dino_alpha_combined_117
+  - first:
+      213: 3332970089443893232
+    second: dino_alpha_combined_118
+  - first:
+      213: 4670699150806207169
+    second: dino_alpha_combined_119
+  - first:
+      213: 4021354418328111300
+    second: dino_alpha_combined_120
+  - first:
+      213: 8697311959876189734
+    second: dino_alpha_combined_121
+  - first:
+      213: -9052886333879946570
+    second: dino_alpha_combined_122
+  - first:
+      213: -3149535598886383037
+    second: dino_alpha_combined_123
+  - first:
+      213: -1710370088388967306
+    second: dino_alpha_combined_124
+  - first:
+      213: 3124548141581085687
+    second: dino_alpha_combined_125
+  - first:
+      213: -3504391131472895198
+    second: dino_alpha_combined_126
+  - first:
+      213: 6356301750636810568
+    second: dino_alpha_combined_127
+  - first:
+      213: 6033127552731200448
+    second: dino_alpha_combined_128
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dino_alpha_combined_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af10936910a1a23c0800000000000000
+      internalID: -4383662693174148614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86583a248c0e496f0800000000000000
+      internalID: -678670493110008472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cfbe76fb9d46320800000000000000
+      internalID: 2550402705104043063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c7d2b71a35a6b0800000000000000
+      internalID: -5285754714190266224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b213cfbf0fe5a3f10800000000000000
+      internalID: 2250215352937754923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d6042e667537630800000000000000
+      internalID: 3923575799763987768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a444825890b1aaa0800000000000000
+      internalID: -6151441447745469279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f2e19b5e06b7150800000000000000
+      internalID: 5871393078977114005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d22a76c3111a7d0800000000000000
+      internalID: -2909024933170238069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2261ed5d88adb70800000000000000
+      internalID: 8924596063723463370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c0464c0c9d9850800000000000000
+      internalID: 6385431423213421426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ffbea05ce418160800000000000000
+      internalID: 7025983501873446782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6905e2d92152e8620800000000000000
+      internalID: 2778198782010871958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 512
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02480bc7108a55a0800000000000000
+      internalID: -6531767469868563955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32eb3bdb2cd51540800000000000000
+      internalID: 4978127044047790655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62ad1f0c5dc52710800000000000000
+      internalID: 1667965032284922478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff511111f809c160800000000000000
+      internalID: 7046172923464343544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5988a611c1a62d00800000000000000
+      internalID: 947622622288972123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3d2eb25f9453b30800000000000000
+      internalID: 4266397539355513851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c6936276cc06ae0800000000000000
+      internalID: -1558020727675196307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce74d0adbf8aaa60800000000000000
+      internalID: 7686113758671044295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dcdc90647e72da0800000000000000
+      internalID: -5969548493058093717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab6af7cdea51df50800000000000000
+      internalID: 6904399681044507567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_23
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0abdf199d24a3940800000000000000
+      internalID: 5276603415642618379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784cc638333dd9880800000000000000
+      internalID: -8602487495006043001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4886bdadadd95d300800000000000000
+      internalID: 276300515453397124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c9198f7b98f2c90800000000000000
+      internalID: -7192378656645080010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_27
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea53554277816e670800000000000000
+      internalID: 8567562241108686254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64075cfb9e629ef50800000000000000
+      internalID: 6911097888563359814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d08b9cc5e9af00e0800000000000000
+      internalID: -2301434080117686057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a7a2db7060bb740800000000000000
+      internalID: 5168731627645991479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1160260f41538b970800000000000000
+      internalID: 8770818638352614929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626674738848172c0800000000000000
+      internalID: -4435618437405383130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f0f126d61754a0800000000000000
+      internalID: -6604785219567292039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc4a9637a4b1f8b0800000000000000
+      internalID: -5120112671074923320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffe16a5941a32d50800000000000000
+      internalID: 6711385206133223412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a756770ff7f8980800000000000000
+      internalID: -8534462098071782787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7284a930488c3a00800000000000000
+      internalID: 737614248408285823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe599cf851f24be0800000000000000
+      internalID: -1494366761836257602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_39
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70d645b52ab00350800000000000000
+      internalID: 5980984976265891967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_40
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0611c905b889ced0800000000000000
+      internalID: -2393231415836600817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de140edfddc848da0800000000000000
+      internalID: -5943470723147218451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ca89186786e0140800000000000000
+      internalID: 4687799120328961076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77501e8eb06043ef0800000000000000
+      internalID: -129471841065433737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a593ed3d8e77ec8b0800000000000000
+      internalID: -5130031083657741990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772b8d04f8a2ec760800000000000000
+      internalID: 7479962825865605751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_46
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf095fc1a068a31e0800000000000000
+      internalID: -2217312488532897541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb09ac4da895d60800000000000000
+      internalID: 7879481669597576725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_48
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f9270c54463fe60800000000000000
+      internalID: 7994844014257020722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df4c50b8af9158b0800000000000000
+      internalID: -5165171750755086375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_50
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ac27aaa00497c10800000000000000
+      internalID: 2051741519797471800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f9301a92b0e63a0800000000000000
+      internalID: -6670381724666192050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_52
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e404a8d5301f5070800000000000000
+      internalID: 8097208478489380073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f704e86fed00ef0800000000000000
+      internalID: -143870037545943284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_54
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398a711a12dd85e30800000000000000
+      internalID: 4492583764808411283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d165d554a83994e50800000000000000
+      internalID: 6794123734943618589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e350a6530c953940800000000000000
+      internalID: 5275294076686586854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d526f353966a1e40800000000000000
+      internalID: 5627923467307722193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86a0a113be1bb4a0800000000000000
+      internalID: -6576629076400757105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a23d18a243401f20800000000000000
+      internalID: 3391284472977371809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_60
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36164d65240882c00800000000000000
+      internalID: 876091149936517475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9f29628e3a9cc60800000000000000
+      internalID: 7838976843889965556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_62
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11e5ecc4ac5db450800000000000000
+      internalID: 6106138532666269982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ecb7736daf241d0800000000000000
+      internalID: -3367853773358903800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_64
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a187cd3ea237fb0800000000000000
+      internalID: -4651326831998789045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_65
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832a1f2c675e11a80800000000000000
+      internalID: -8497758723631898056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_66
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428433de7b0623c50800000000000000
+      internalID: 6643478743399745572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_67
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac349f6153b357c0800000000000000
+      internalID: -4083723274749199199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_68
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492a88d7042c5f330800000000000000
+      internalID: 3744112247468237460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45566adb2ea2302b0800000000000000
+      internalID: -5619600756695472812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_70
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e29ce8fe730efbe0800000000000000
+      internalID: -1441710986834963736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_71
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb72f4d0b6121770800000000000000
+      internalID: 8579945188836932534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_72
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f1fbf9c5059be0800000000000000
+      internalID: -1471263338193096528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_73
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a01c776cc5a5fb0800000000000000
+      internalID: -4658308857078936979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_74
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d257952f0f38510800000000000000
+      internalID: 1550347620419186018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_75
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e1f083e5fd1f800800000000000000
+      internalID: 644541817451126405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_76
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7d9feeee4442050800000000000000
+      internalID: 5774816415198074789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_77
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d8d30d95c05630800000000000000
+      internalID: 3913845354350041212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_78
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8ecf86b77ed1e50800000000000000
+      internalID: 6781831131118233849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_79
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9674ba215198ee2c0800000000000000
+      internalID: -4400429062293862551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_80
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef5dbb0c5a40e8f0800000000000000
+      internalID: -513328598325829660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_81
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db737896d5ddaa50800000000000000
+      internalID: 6534113752041880530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab61c8c0cdce44cc0800000000000000
+      internalID: -3727594161708460358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_83
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83781fe625a2ccc90800000000000000
+      internalID: -7148291975006812360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_84
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914cddda28a9c4b60800000000000000
+      internalID: 7731724546341717017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_85
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de522f447f2ef940800000000000000
+      internalID: 5331751185443610325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a650e6bc3f58d80800000000000000
+      internalID: -8248919087409436135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c118f34c7a1c5f080800000000000000
+      internalID: -9154197741264469732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_88
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105824d4d9d1cc710800000000000000
+      internalID: 1714778119564592385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_89
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1cf632c6ab4f7b0800000000000000
+      internalID: -5191319496837578245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_90
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659197365b57c0d20800000000000000
+      internalID: 3246098853345696086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_91
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47e6a4fae8b8a090800000000000000
+      internalID: -8022959416894101681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_92
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7d62fbb6ecccb80800000000000000
+      internalID: -8373090645024778271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_93
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a973cb68938710800000000000000
+      internalID: 1694365473429890390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_94
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85bc0d9b9ac2910800000000000000
+      internalID: 1814011365460498601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_95
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 128
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80bb0237f0909720800000000000000
+      internalID: 2850937955496472719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29697434126d56d20800000000000000
+      internalID: 3271256142705563282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_97
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f153230eb8f48570800000000000000
+      internalID: 8468166694343496176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_98
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1227efe25094380800000000000000
+      internalID: -8986645882045586945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eeb3013b19fa1a0800000000000000
+      internalID: -6796053114421252563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cc4003fe0a70e70800000000000000
+      internalID: 9081404122779143275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_101
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6473e74bbbd0d50800000000000000
+      internalID: 6705221804110595754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_102
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43655ff01307b81a0800000000000000
+      internalID: -6806223055816927692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_103
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd21ea613ca85d90800000000000000
+      internalID: -7108742683557810697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936cd00d066c96e90800000000000000
+      internalID: -7031871224052595143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_105
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df11f89db7a7d23d0800000000000000
+      internalID: -3229790685405179395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_106
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2877eebf8595a460800000000000000
+      internalID: 7252367219565754410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_107
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a103362407e8510800000000000000
+      internalID: 1553302351923649088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_108
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f96b79c6159a1aa0800000000000000
+      internalID: -6189470812765197831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_109
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 64
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaecd12186b237f0800000000000000
+      internalID: -634243931770656089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92e1bae47c8f6d80800000000000000
+      internalID: -8255225158165208422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_111
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57675071d47970bd0800000000000000
+      internalID: -2663994297211849099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_112
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89806fe1c241e500800000000000000
+      internalID: 423693240661739917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_113
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ee9f22fc43f6f0800000000000000
+      internalID: -652092917973851152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_114
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791712bf23df6410800000000000000
+      internalID: 1472627804978223479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_115
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7306fa1e02cf06320800000000000000
+      internalID: 2549314607247220791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_116
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7326b751d816dc40800000000000000
+      internalID: 5536640079297389439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_117
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6142424ca267a10800000000000000
+      internalID: 1906758514146285267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_118
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff1e4433a6114e20800000000000000
+      internalID: 3332970089443893232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_119
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac5889128a1d040800000000000000
+      internalID: 4670699150806207169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_120
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c805649988bec730800000000000000
+      internalID: 4021354418328111300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_121
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e3d2da52f03b870800000000000000
+      internalID: 8697311959876189734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_alpha_combined_122
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2f815f7dfad5280800000000000000
+      internalID: -9052886333879946570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
