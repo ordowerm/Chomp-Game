@@ -271,6 +271,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a34545febc896694e95fe478737123a3, type: 2}
   - {fileID: 11400000, guid: 7e8e83c124fd53d4d986461ef4a5656b, type: 2}
   stage: {fileID: 11400000, guid: c7455a2aeab7b0248954e2e6c2419dbb, type: 2}
-  scenePath: Assets/Scenes/StageMangerScene.unity
+  scenePath: Assets/Scenes/TitleScreenScene.unity
   input: {fileID: 456229097}
   physics: {fileID: 456229101}
